@@ -1,0 +1,1 @@
+ /Users/warrenmagagula/Dev/flutter_mobile/bmi_calc/.dart_tool/flutter_build/114eb5c3985f967700af3eb1893fba57/native_assets.yaml: 
